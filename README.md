@@ -1,4 +1,4 @@
-# Merge Sorted Arrays TypeScript Project
+# Merge Sorted TypeScript Project
 
 This TypeScript project includes a `merge` function for merging two sorted arrays. The project also includes unit tests to ensure the correctness of the implementation.
 
